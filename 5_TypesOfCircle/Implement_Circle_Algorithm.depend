@@ -942,3 +942,10 @@
 1738705850 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
 
+1765650031 source:g:\sayeem-ar_github\cse422_computer_graphics_lab\5_midcircle_algorithm\main.cpp
+	<GL/glut.h>
+	<math.h>
+
+1738705850 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\math.h
+	<crtdefs.h>
+
