@@ -1,0 +1,35 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Code::Blocks project files
+*.cbp
+*.depend
+*.layout
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Debug and build directories
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PDF and image files (if not needed in version control)
+*.pdf
+*.png
