@@ -308,8 +308,8 @@ Potential areas for expansion:
 
 - **Course**: CSE422 Computer Graphics Lab
 - **Semester**: Fall 2025
-- **Author**: sayeem-ar
-- **Institution**: [University Name]
+- **Author**: ar-sayeem || sayeem-ar
+- **Institution**: Daffodil International University
 - **Last Updated**: December 2025
 
 ---
